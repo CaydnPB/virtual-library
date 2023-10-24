@@ -1,1 +1,1 @@
-const { Media } = require("./classes/index");
+let Media, Book, Movie, Music = require("./src/index");
